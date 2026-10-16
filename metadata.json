@@ -1,0 +1,6 @@
+{
+  "name": "Simulasi Integral Riemann Interaktif",
+  "description": "Media pembelajaran matematika interaktif untuk memahami konsep integral tentu melalui visualisasi jumlah persegi panjang Riemann, batas partisi, dan konvergensi luas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
